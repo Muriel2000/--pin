@@ -2,10 +2,10 @@
 对于拼车机器人的研究
 
 初步决定使用HTTP--API项目提供的QQ机器人框架为核心，构建服务机器人。
-（https://github.com/ksust/HTTP--API）
+（https://github.com/ksust/HTTP--API ）
 
 并探究mirai框架搭建转发机器人。
-（https://github.com/mamoe/mirai）
+（https://github.com/mamoe/mirai ）
 
 主要分为几个模块
 
